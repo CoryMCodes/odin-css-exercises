@@ -1,0 +1,19 @@
+body > *:nth-child(odd){
+  font-family: Verdana, sans-serif;
+  background-color:rgb(186, 64, 158);
+}
+
+#one{
+  color: blue;
+  font-size: 36px;
+}
+
+#two{
+  background-color: lightgreen;
+  font-weight: bold;
+}
+
+.twentyfour{
+  font-size: 24px;
+}
+
