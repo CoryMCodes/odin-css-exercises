@@ -15,7 +15,12 @@ body {
   justify-content: center;
 }
 
-
+.text-group{
+  padding: 8px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
 .modal {
   background: white;
   width: 480px;
@@ -45,7 +50,6 @@ body {
   font-weight: bold;
   font-size: 1.5em;
   align-items: center;
-  padding: 12px 8px
 }
 
 .close-button {
@@ -63,7 +67,6 @@ body {
 }
 
 .button-group{
-  padding: 16px 0px;;
   display: flex;
   gap: 8px;
 }
